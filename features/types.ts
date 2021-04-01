@@ -25,7 +25,7 @@ let point: {x: number; y: number} = {
   y: 2
 };
 
-// functions
+// Functions
 const logNumber: (i: number) => void = (i: number) => {
   console.log(i)
 };
